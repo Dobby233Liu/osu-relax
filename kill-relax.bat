@@ -1,1 +1,1 @@
-taskill wscript.exe
+taskkill wscript.exe
